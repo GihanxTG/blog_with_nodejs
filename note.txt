@@ -1,0 +1,13 @@
+install Nodejs
+
+->install Express
+
+->install Nodemon
+
+->install Morgan
+
+->install Template engine
+
+->install scss
+
+->install Bootstrap
