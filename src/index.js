@@ -20,6 +20,10 @@ app.get('/', (req, res) => {
   res.render('home');
 });
 
+app.get('/detail', (req, res) => {
+  res.render('detail');
+});
+
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`);
 })
